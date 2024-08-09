@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExtendClass/ExtendClass.iml" filepath="$PROJECT_DIR$/ExtendClass/ExtendClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lamda/Lamda.iml" filepath="$PROJECT_DIR$/Lamda/Lamda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Runnable/Runnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/join-isalive/join-isalive.iml" filepath="$PROJECT_DIR$/join-isalive/join-isalive.iml" />
       <module fileurl="file://$PROJECT_DIR$/practiceThreads.iml" filepath="$PROJECT_DIR$/practiceThreads.iml" />
       <module fileurl="file://$PROJECT_DIR$/synchronized KeyWord/synchronized KeyWord.iml" filepath="$PROJECT_DIR$/synchronized KeyWord/synchronized KeyWord.iml" />
     </modules>
