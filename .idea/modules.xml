@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ExtendClass/ExtendClass.iml" filepath="$PROJECT_DIR$/ExtendClass/ExtendClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lamda/Lamda.iml" filepath="$PROJECT_DIR$/Lamda/Lamda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Runnable/Runnable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practiceThreads.iml" filepath="$PROJECT_DIR$/practiceThreads.iml" />
+    </modules>
+  </component>
+</project>
