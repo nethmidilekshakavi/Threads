@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Lamda/Lamda.iml" filepath="$PROJECT_DIR$/Lamda/Lamda.iml" />
       <module fileurl="file://$PROJECT_DIR$/Runnable/Runnable.iml" filepath="$PROJECT_DIR$/Runnable/Runnable.iml" />
       <module fileurl="file://$PROJECT_DIR$/practiceThreads.iml" filepath="$PROJECT_DIR$/practiceThreads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronized KeyWord/synchronized KeyWord.iml" filepath="$PROJECT_DIR$/synchronized KeyWord/synchronized KeyWord.iml" />
     </modules>
   </component>
 </project>
